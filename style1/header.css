@@ -1,0 +1,9 @@
+.header{
+    height: 400px;
+    background-image: url('sena.jpg');
+    color: red;
+    font-size: 30px;
+    background-size: cover;
+    background-size: 775px;
+    background-repeat: no-repeat;
+}
